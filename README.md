@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>👨💻 Abhishek Kumar Singh</h1>
-  <h3>Full Stack Developer | Competitive Coder | Tech Enthusiast</h3>
+  <h3>AI Full Stack Developer | Competitive Coder | Tech Enthusiast</h3>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=800&color=2DDBF7&center=true&vCenter=true&width=500&lines=Hello+World!;Code+%7C+Create+%7C+Innovate" alt="Typing Animation">
 </div>
