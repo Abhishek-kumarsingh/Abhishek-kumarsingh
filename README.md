@@ -44,6 +44,10 @@
 </td>
 
 <td align="center" width="120">
+<img src="https://cdn.simpleicons.org/bootstrap" width="65"/><br>Bootstrap
+</td>
+
+<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65"/><br>HTML
 </td>
 
@@ -51,8 +55,40 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65"/><br>CSS
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65"/><br>Figma
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65"/><br>React Native
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/androidstudio" width="65"/><br>Android Studio
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="65"/><br>Firebase
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/supabase" width="65"/><br>Supabase
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/neon" width="65"/><br>Neon
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/convex" width="65"/><br>Convex
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/postman" width="65"/><br>Postman
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="65"/><br>Redis
 </td>
 
 </tr>
@@ -147,12 +183,19 @@
 <img src="https://img.shields.io/badge/Agile-green?style=for-the-badge"/><br>Agile
 </td>
 
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" width="65"/><br>Illustrator
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="65"/><br>Stitch
+</td>
+
 </tr>
 
 </table>
 
 </div>
-
 
 
 ## 📈 **GitHub Analytics**
