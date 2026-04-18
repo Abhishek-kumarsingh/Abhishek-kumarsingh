@@ -20,23 +20,26 @@
 
 <p><i>Technologies, tools & intelligent systems I build with</i></p>
 
+
+
 <table>
+
 <tr>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65"/><br>React
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65"/><br>HTML
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65"/><br>Next.js
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65"/><br>TypeScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65"/><br>CSS
 </td>
 
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65"/><br>JavaScript
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65"/><br>TypeScript
 </td>
 
 <td align="center" width="120">
@@ -48,11 +51,11 @@
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65"/><br>HTML
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65"/><br>React
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65"/><br>CSS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65"/><br>Next.js
 </td>
 
 </tr>
@@ -76,7 +79,7 @@
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.simpleicons.org/neon" width="65"/><br>Neon
+<img src="https://img.shields.io/badge/Neon-DB-00E599?style=for-the-badge"/><br>Neon
 </td>
 
 <td align="center" width="120">
