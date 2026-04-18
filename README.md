@@ -11,46 +11,149 @@
 
 
 
-  ## 🛠️ Tech Stack
+
+## 🧩 Tech Universe I Operate In
 
 <div align="center">
 
-### **Frontend & Mobile**
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=header"/>
+
+<p><i>Technologies, tools & intelligent systems I build with</i></p>
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65"/><br>React
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65"/><br>Next.js
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65"/><br>TypeScript
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65"/><br>JavaScript
+</td>
+
+<td align="center" width="120">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="65"/><br>Tailwind
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65"/><br>HTML
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65"/><br>CSS
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65"/><br>Figma
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65"/><br>Node.js
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="65"/><br>Express
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65"/><br>MongoDB
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65"/><br>MySQL
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65"/><br>Docker
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65"/><br>Git
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65"/><br>GitHub
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65"/><br>VS Code
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65"/><br>Python
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65"/><br>C++
+</td>
+
+<td align="center" width="120">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="65"/><br>MCP
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="65"/><br>Agents
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Memex-9cf?style=for-the-badge"/><br>Memex
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/><br>RAG
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Vector-DB-purple?style=for-the-badge"/><br>Vector DB
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Embeddings-orange?style=for-the-badge"/><br>Embeddings
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Oracle-Cloud-red?style=for-the-badge"/><br>OCI
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/REST-API-black?style=for-the-badge"/><br>REST
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/JWT-blue?style=for-the-badge"/><br>JWT
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Agile-green?style=for-the-badge"/><br>Agile
+</td>
+
+</tr>
+
+</table>
+
 </div>
 
-### **Backend & Databases**
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-</div>
 
-### **Languages**
-<div>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
-</div>
-
-### **Tools & Design**
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white">
-</div>
-
-</div>
-
----
 
 ## 📈 **GitHub Analytics**
 
